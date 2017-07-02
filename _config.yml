@@ -18,3 +18,9 @@ timezone: America/Fortaleza
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "pt-br"]
+exclude_from_localizations: ["javascript", "images", "css"]

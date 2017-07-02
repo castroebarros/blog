@@ -3,25 +3,52 @@ layout: default
 ---
 
 <div class="home">
+  <h1 class="headline">
+    Get More with Custom Software
+  </h1>
 
-  <h1 class="page-heading">Posts</h1>
+  <div class="subheader">
+    We are Senior Developers that help businesses to get better and faster results wtih Ruby on Rails.
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
+  <div class="featured">
+    <div class="col">
+      <div class="col-content col-first">
+        <h3>Senior Developers</h3>
         <p>
-          {{ post.excerpt }}
+          Since 2005 working on Java and Ruby projects.
+        <p>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="col-content col-middle">
+        <h3>Full Stack</h3>
+        <p>
+          Reduce time and money whith a talented and small team.
         </p>
-      </li>
-    {% endfor %}
-  </ul>
+      </div>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <div class="col">
+      <div class="col-content col-last">
+        <h3>Entrepreneurs</h3>
+        <p>
+          We also are entrepreneurs, so we understand you.
+        </p>
+      </div>
+    </div>
+  </div>
 
+  <div class="testimonial">
+    <img src="/assets/aeciomagalhaes.jpg" class="avatar" style="height: 57px">
+    <p>
+      <q>I trust and recommend these guys, they know what are doing.</q>
+      &mdash; Aécio Guimarães, CEO at <a href="http://www.credishop.com.br" target="blank">Credishop</a>
+    </p>
+  </div>
+
+  <div class="cta">
+    <a href="/getting-started" class="btn btn-big btn-primary">Getting started &rarr; </a>
+  </div>
 </div>

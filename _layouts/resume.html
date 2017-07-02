@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="page-wrapper">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="resume">
+          <a class="print" href="javascript: print()">Print or Save as PDF</a>
+          <span>Résumé</span>
+          <h1>
+            {{ page.fullname }}
+          </h1>
+
+          <a class="email" href="{{ page.email }}">{{ page.email }}</a> (send me a message for more informations)
+
+          <dl>
+            <dt>github:</dt> <dd><a href="http://github.com/{{ page.github }}">{{ page.github }}</a></dd>
+            <dt>linkedin:</dt> <dd><a href="http://www.linkedin.com/in/{{ page.linkedin }}">{{ page.linkedin }}</a></dd>
+            <dt>skype:</dt> <dd><a href="stype:{{ page.skype }}">{{ page.skype }}</a></dd>
+          </dl>
+
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </div>
+  </body>
+
+</html>
