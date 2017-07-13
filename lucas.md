@@ -12,7 +12,7 @@ order: -1
 
 ## Qualifications
 
-* Experienced Developer: since 2005 with a lot of Java and Ruby projects. 
+* Experienced Developer: since 2005 has experience with Java, Ruby, Elixir and Angular. 
 * Entrepreneur: co-founded a successful local startup and failed others business.
 * Consultant: work as a software consultant for startups and small companies.
 
@@ -60,12 +60,13 @@ These are the most used technologies on my projects:
 * Ruby on Rails
 * PostgreSQL
 * Minitest
+* HTML/CSS/JavaScript
 * Twitter Bootstrap
 * Git
 * Heroku
 * AWS (SES, S3)
 
-Open minded, currently studying Elixir and Ionic.
+Most recently, working with Elixir and Ionic.
 
 ## Education
 
