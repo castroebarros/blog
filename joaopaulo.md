@@ -12,7 +12,7 @@ order: -1
 
 ## Qualifications
 
-* Experienced Developer: since 2005 with a lot of Java and Ruby projects. 
+* Experienced Developer: since 2001 with a lot of Java and Ruby projects. 
 * Entrepreneur: co-founded a successful local startup and failed others business.
 * Consultant: work as a software consultant for startups and small companies.
 
