@@ -12,7 +12,7 @@ order: -1
 
 ## Qualifications
 
-* Experienced Developer: since 2001 with a lot of Java and Ruby projects. 
+* Experienced Developer: since 2002 with a lot of Java and Ruby projects. 
 * Entrepreneur: co-founded a successful local startup and failed others business.
 * Consultant: work as a software consultant for startups and small companies.
 
@@ -43,7 +43,7 @@ order: -1
 
 * Credishop (Credit Card Administration Company @ Teresina, Piauí) <br />
   Software Developer <br />
-  July/2006 - April/2012 
+  October/2006 - April/2012 
   * Contracted with a mission of help the team to create and migrate the legacy software to Java. 
   * Developed internal softwares using Java and several tools of its ecosystem. 
   * Worked heavily on Ruby projects for billing and the call center. 
@@ -52,7 +52,7 @@ order: -1
 
 * Infoway (Health Insurance Company @ Teresina, Piauí) <br />
   Software Developer <br />
-  October/2002 - July/2006 
+  October/2002 - October/2006 
   * Contracted with a mission of help the team to create and migrate the legacy software to Java. 
   * Worked heavily on Java projects for Health Care. 
   * Implanted other minor and accessory softwares, using PHP and other technologies.
@@ -74,5 +74,5 @@ Open minded, currently studying Elixir, Ionic and PWA.
 
 ## Education
 
-Bachelor's Degree in Information Systems (1998 - 2002) <br />
+Bachelor's Degree in Information Systems (1999 - 2002) <br />
 IFPI @ Teresina, Piauí
