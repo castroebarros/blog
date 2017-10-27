@@ -2,10 +2,10 @@
 layout: resume
 title: João Paulo - Résumé
 permalink: /about/joaopaulo
-fullname: João Paulo
+fullname: João Paulo Barros
 email: joaopaulo@castroebarros.net
-skype: jpsbarros
-github: jpsbarros
+skype: joaopaulodesousa
+github: jpsb
 linkedin: jpsbarros
 order: -1
 ---
@@ -43,20 +43,25 @@ order: -1
 
 * Credishop (Credit Card Administration Company @ Teresina, Piauí) <br />
   Software Developer <br />
-  February/2006 - April/2012 
+  July/2006 - April/2012 
   * Contracted with a mission of help the team to create and migrate the legacy software to Java. 
   * Developed internal softwares using Java and several tools of its ecosystem. 
-  * Collaborated actively for jGenesis, an open source framework for help to create client/server Java application using RMI and Swing. 
-  * Convinced the team of six members and the CTO to use Ruby instead of Java for the legacy migrations. 
   * Worked heavily on Ruby projects for billing and the call center. 
   * Implanted other minor and accessory softwares, like a knowledge base and a corporative social network.
+  * Managed a whole IT team for a long time.
+
+* Infoway (Health Insurance Company @ Teresina, Piauí) <br />
+  Software Developer <br />
+  October/2002 - July/2006 
+  * Contracted with a mission of help the team to create and migrate the legacy software to Java. 
+  * Worked heavily on Java projects for Health Care. 
+  * Implanted other minor and accessory softwares, using PHP and other technologies.
 
 
 ## Skills
 
 These are the most used technologies on my projects:
 
-* Vim
 * Ruby on Rails
 * PostgreSQL
 * Minitest
@@ -65,9 +70,9 @@ These are the most used technologies on my projects:
 * Heroku
 * AWS (SES, S3)
 
-Open minded, currently studying Elixir and Ionic.
+Open minded, currently studying Elixir, Ionic and PWA.
 
 ## Education
 
-Bachelor's Degree in Information Systems (2003 - 2007) <br />
-Facid DeVry @ Teresina, Piauí
+Bachelor's Degree in Information Systems (1998 - 2002) <br />
+IFPI @ Teresina, Piauí
