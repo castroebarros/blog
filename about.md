@@ -194,7 +194,7 @@ order: 3
   <div class="story">
     <div class="period">
       <div class="month">october</div>
-      <div class="year">2002</div>
+      <div class="year">2003</div>
     </div>
     <div class="text">
       <h3>Infoway - Software Developer</h3>
