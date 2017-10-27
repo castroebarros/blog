@@ -190,6 +190,22 @@ order: 3
       </ul>
     </div>
   </div>
+
+  <div class="story">
+    <div class="period">
+      <div class="month">october</div>
+      <div class="year">2002</div>
+    </div>
+    <div class="text">
+      <h3>Infoway - Software Developer</h3>
+      <ul>
+        <li>João Paulo started at <a href="http://infoway-br.com/">Infoway</a>, a Health Care Company.</li>
+        <li>Contracted with a mission of help the team to create and migrate the legacy software to Java.</li>
+        <li>Developed internal softwares using Java and several tools of its ecosystem, like Struts, Spring, Hibernate, Swing, jUnit, etc.</li>
+        <li>SQL databases: MySQL and PostgreSQL</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div class="clearfix"></div>
